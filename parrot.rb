@@ -9,7 +9,7 @@
 #parrot
 
 
-def parrot
+def parrot(phrase = "Squawk!")
   
   
 end 
