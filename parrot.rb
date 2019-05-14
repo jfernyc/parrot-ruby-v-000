@@ -10,6 +10,6 @@
 
 
 def parrot(phrase = "Squawk!")
-  outs phrase
+  puts phrase
   
 end 
